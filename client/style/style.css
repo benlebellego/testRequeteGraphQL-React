@@ -1,0 +1,18 @@
+h1{
+  text-align: center;
+}
+
+.collection-item{
+  display: flex;
+  flex-flow: row wrap;
+}
+.collection-item a{
+  width: 100%;
+}
+.info-jeu{
+  width: 95%;
+  margin-bottom: 0;
+}
+.delete_button{
+  cursor: pointer;
+}
