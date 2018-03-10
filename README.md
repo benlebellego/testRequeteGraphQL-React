@@ -1,4 +1,4 @@
-# Graphql-Movie-Starter
+# Graphql-Jeux-Video
 
 ```
 > npm install
